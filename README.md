@@ -27,4 +27,4 @@ bootstrap web framework
 JS(pure)
 ```
 # Authors
-sabreen salama
+* **sabreen salaman** - *Initial work*
